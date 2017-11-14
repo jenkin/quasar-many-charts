@@ -1,0 +1,14 @@
+[
+  { "id": "alessandro", "dir": "./alessandro/", script: "index.js" },
+  { "id": "arianna", "dir": "./arianna/", script: "index.js" },
+  { "id": "bernardo", "dir": "./bernardo/", script: "index.js" },
+  { "id": "daniele", "dir": "./daniele/", script: "index.js" },
+  { "id": "dario", "dir": "./dario/", script: "index.js" },
+  { "id": "gabriele", "dir": "./gabriele/", script: "index.js" },
+  { "id": "gino", "dir": "./gino/", script: "index.js" },
+  { "id": "giulio", "dir": "./giulio/", script: "index.js" },
+  { "id": "leonardo", "dir": "./leonardo/", script: "index.js" },
+  { "id": "matteo", "dir": "./matteo/", script: "index.js" },
+  { "id": "matteog", "dir": "./matteog/", script: "index.js" },
+  { "id": "rebecca", "dir": "./rebecca/", script: "index.js" }
+]
